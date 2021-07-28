@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: 
       name: development  
-      url: https://github.com
+      url: https://github.com/gracewm/python-helloworld
    
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
